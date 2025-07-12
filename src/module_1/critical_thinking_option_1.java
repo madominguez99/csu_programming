@@ -4,8 +4,8 @@ public class critical_thinking_option_1 {
 
 	public static void main(String[] args) {
 		
-		//set variables
-	    String firstName = "Shelly";
+	//set variables
+	String firstName = "Shelly";
         String lastName = "Rivers";
         String streetAddress = "123 Seashore Way";
         String city = "Oceanside";
